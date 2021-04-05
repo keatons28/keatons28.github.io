@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(242, 241, 239);
+    background-image: url(Graphics/back.jpg);
+    margin:0 auto;
+     font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1{
+    background-color:rgb(193, 161, 166);
+    padding: 50px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin:auto 0;
+    font-size: 40px;
+}
+p{
+    text-align: center;
+    background-color:white;
+    padding: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: normal;
+    font-size: 18px;
+}
+div{
+    display: inline-block;
+   text-align: center;
+    padding:10px;
+    padding-bottom: 30px;
+    position:relative;
+}
+
+h2 {
+    font-style:oblique;
+    font-weight:normal ;
+}
+
+footer {
+    background-color:rgb(193, 161, 166);
+    padding: 50px;
+}
