@@ -1,27 +1,15 @@
 body{
     background-color:rgb(242, 241, 239);
-    background-image: url(Graphics/back.jpg);
     margin:0 auto;
      font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
-
-h1{
-    background-color:rgb(193, 161, 166);
-    padding: 50px;
-    text-align: center;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    margin:auto 0;
-    font-size: 40px;
-}
 p{
     text-align: center;
-    background-color:white;
-    padding: 20px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    font-weight: normal;
-    font-size: 18px;
+    background-color:rgb(193, 161, 166);
+    padding: 30px;
+    font-weight:normal;
+    font-size: 19px;
 }
 div{
     display: inline-block;
@@ -31,12 +19,60 @@ div{
     position:relative;
 }
 
+#line{
+    background-color:rgb(193, 161, 166);
+    width:100%;   
+}
+
 h2 {
     font-style:oblique;
-    font-weight:normal ;
+    font-weight:bold ;
+    font-family:'Lexend', sans-serif;
+}
+
+#taylorbackground{
+    background-image: url(Graphics/taylor\ background.jpg);
+    opacity: .8;
+}
+
+#quoteimage{
+    size: 1200px;
+    padding:9px;
+    font-weight:bold 700;
+    border-style: solid;
+    border-width: 1px;
+    border-color:black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    background-color:rgb(193, 161, 166);
+    padding: 50px;
+    text-align: center;
+    font-family: 'Homemade Apple', cursive;
+    margin:auto 0;
+    font-size: 50px;
+    opacity: 1;
+}
+h3{
+    background-color:rgb(242, 241, 239);
+    padding: 35px;
+    text-align: center;
+    font-family:'Lexend', sans-serif;
+    margin:auto 0;
+    font-size:35px;
+    font-weight: bold;
+}
+
+#explain{
+    background-color: rgb(242, 241, 239);
+    font-family:'Lexend', sans-serif;
+    font-size:15px;
+    padding-top:20px;
+    opacity: 2;
 }
 
 footer {
     background-color:rgb(193, 161, 166);
-    padding: 50px;
+    padding-bottom: 80px;
 }
