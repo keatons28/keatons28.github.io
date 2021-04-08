@@ -45,6 +45,9 @@ h2 {
     border-color:black;
     font-family: 'Montserrat', sans-serif;
 }
+#secondtitle{
+    padding:9px;
+}
 
 h1{
     background-color:rgb(193, 161, 166);
